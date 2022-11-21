@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janellelara
 - 👀 I’m interested in UX/UI and problemsolving as a whole
-- 🌱 I’m currently learning React, HTML, CSS
+- 🌱 I’m currently learning JavaScript, HTML, CSS, and React
 - 📫 How to reach me janellelara14@yahoo.com
 
 <!---
